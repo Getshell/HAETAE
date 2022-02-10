@@ -14,6 +14,24 @@
 - 09-痕迹清理
 - 10-娱乐操作
 
-![](神器獬廌.png)
+![](TEMP/00.png)
 
-![](HAETAE.gif)
+![](TEMP/01.png)
+
+![](TEMP/02.png)
+
+![](TEMP/03.png)
+
+![](TEMP/04.png)
+
+![](TEMP/05.png)
+
+![](TEMP/06.png)
+
+![](TEMP/07.png)
+
+![](TEMP/08.png)
+
+![](TEMP/09.png)
+
+![](TEMP/10.png)
